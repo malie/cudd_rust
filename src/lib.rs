@@ -57,7 +57,7 @@ fn it_works() {
 
         println!("zero: {:?}", z);
         println!("ok");
-        panic!();
+        // panic!();
     }
 }
 
