@@ -7,7 +7,6 @@ http://vlsi.colorado.edu/~fabio/CUDD/
 Also, CUDD is built as a dynamic library.
 
 TODO:
-* Reference Counting
 * more functions
 * How to use C macros from Rust? Well, the simple ones :/
 * How to make the pointers to DdManager and DdNode opaque?
