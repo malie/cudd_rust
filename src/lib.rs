@@ -122,7 +122,7 @@ fn it_works() {
         println!("used slots: {:?}", Cudd_ReadUsedSlots(mn));
         
         println!("ok");
-        panic!();
+        // panic!();
     }
 }
 
