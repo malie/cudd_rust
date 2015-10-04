@@ -12,3 +12,4 @@ TODO:
 * How to use C macros from Rust? Well, the simple ones :/
 * How to make the pointers to DdManager and DdNode opaque?
 
+[![Build Status](https://travis-ci.org/malie/cudd_rust.svg?branch=master)](https://travis-ci.org/malie/cudd_rust)
